@@ -1,0 +1,177 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+@media only screen and (max-width:620px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+        width: 100%;
+    }
+    
+}
+
+
+.top {
+    margin-left: 30px;
+    background-color: #ffffff;
+}
+
+#logo {
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    text-decoration: none!important;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-size: 55px;
+    transition: 0.2s;
+    color: #97ff6a;
+}
+
+li {
+    float: left;
+    display: inline;
+    margin: 40px;
+    margin-top: 23px;
+    margin-left: 23px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    text-decoration: none;
+    
+    
+    
+}
+
+.main {
+    clear: left;
+}
+
+hr {
+    width: 1350px;
+    height: 3px;
+    background-color: black;
+    border: 0;
+}
+
+#toptnwjd {
+    margin: -150px 0 0 -40px;
+    width: 1470px;
+    height: 140px;
+    background-color: #ff42e3;
+    clear: none;
+
+}
+
+#best_1 {
+    
+    margin: 40px 0 0 100px;
+    float: left;
+}
+
+#date {
+    font-size: 30px;
+    font-weight: bold;
+    clear: both;
+    margin-top: 5px;
+}
+
+#date_hr {
+    width: 18px;
+    height: 4px;
+    text-align: left;
+    float: left;
+    margin-left: 55px;
+    margin-top: -20px;
+}
+
+p {
+    text-align: left;
+    margin-left: 40px;
+    clear: both;
+    font-size: 1em;
+    font-weight: 500;
+    margin-top: -30px;
+}
+
+
+
+#bestt {
+    margin: 90px 200px 0 0;
+    float: right;   
+    
+}
+
+#bestt1 {
+   
+    float: right;
+    margin: 10px 260px 0 0;   
+    
+}
+
+.main2 {
+    clear: both;
+    margin-left: 120px;
+}
+
+#date2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+
+}
+
+#text1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#pic2 {
+    text-align: right;
+    
+    
+}
+
+#b {
+    
+    margin-top: 300px;
+    float: left;
+
+}
+
+table {
+    margin-left: 50px;
+    
+}
+
+#te {
+    color: rgb(0, 0, 0);
+}
+
+#te:hover {
+    color: rgb(255, 106, 193);
+    transition: 0.5s;
+}
+
+#b_1 {
+    float: left;
+    margin-top: 50px;
+}
+
+
