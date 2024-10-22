@@ -1,0 +1,164 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media only screen and (max-width:620px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+        width: 100%;
+    }
+    
+}
+
+
+.top {
+    margin-left: 30px;
+}
+
+#logo {
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    text-decoration: none!important;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+    transition: 0.2s;
+ 
+}
+
+li {
+    float: left;
+    display: inline;
+    margin: 40px;
+    margin-top: 23px;
+    margin-left: 23px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    text-decoration: none;
+    
+    
+    
+}
+
+.main {
+    clear: left;
+}
+
+hr {
+    width: 1400px;
+    height: 5px;
+    background-color: black;
+    border: 0;
+}
+
+#b_text {
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 55px;
+    font-weight: bold;
+    
+}
+
+
+span {
+    font-size: 35px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    padding: 0 15px 0 15px;
+    
+}
+
+
+
+#best1 {
+    margin-top: 50px;
+    margin-left: 200px;
+    float: left;
+}
+
+#best2 {
+    margin-top: -0px;
+    margin-left: 620px;
+}
+
+#best3 {
+    margin-left: 540px;
+    margin-top: 120px;
+    
+}
+
+#best4 {
+    float: right;
+    margin-top: -460px;
+    margin-right: 280px;
+}
+
+#best5 {
+    margin-top: -30px;
+    margin-left: 419px;
+    float: left;
+    
+}
+
+#best6 {
+    float: left;
+    margin-left: -300px;
+    margin-top: 52px;
+}
+
+#best7 {
+    float: left;
+    margin-left: 74px;
+    margin-top: 20px;
+}
+
+#best8 {
+    float: left;
+    margin-left: 90px;
+    margin-top: 33px;
+
+}
+
+#best12 {
+    float: right;
+    margin-right: 193px;
+    margin-top: 145px;
+}
+
+#best9 {
+    float: left;
+    margin-left: 220px;
+    margin-top: 90px;
+
+}
+
+#best10 {
+    float: left;
+    margin-left: 90px;
+    margin-top: 180px;
+}
+
+#best11{
+    float: left;
+    margin-left: 30px;
+    margin-top: -70px;
+}
